@@ -48,3 +48,29 @@
 ---
 
 # 1. 데이터 수집
+
+- 방법 : 커뮤니티 작성글/댓글 크롤링
+- 사용 라이브러리 : [DC-Crawler](https://github.com/Kain7f1/DC-Crawler)
+- 커뮤니티 : dcinside
+- 데이터 : 24개의 기업에 대한 검색결과 게시글/댓글 text
+- 데이터 수 : 1,153,474 개
+
+---
+
+# 2. 데이터 전처리
+
+---
+
+## Contacts
+
+### 이슈 관련
+* https://github.com/Kain7f1/Peak-Finder/issues
+
+### E-mail
+* kain7f1@gmail.com
+
+---
+
+## License
+
+`DC-Crawler`는 `MIT License` 라이선스 하에 공개되어 있습니다. 모델 및 코드를 사용할 경우 라이선스 내용을 준수해주세요. 라이선스 전문은 `LICENSE` 파일에서 확인하실 수 있습니다.
