@@ -168,5 +168,6 @@ print(tokens)
 - 23일에 관심이 터진다
     - 22일에는 조용했던 키워드 언급량이 폭증함
 - 24일 버블붕괴
-    - “병신” 빈도 증가
-
+    - "새끼", “병신” 빈도 증가
+- 실제 차트  
+![Ahnlab_chart.png](image_files%2FAhnlab_chart.png)
