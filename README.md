@@ -215,9 +215,10 @@ print(tokens)
 #### 4-b-2) 2023-07-20 ~ 07-28 데이터 분석 
 ![ecopro_peak_tokens_1.png](image_files%2Fecopro_peak_tokens_1.png)
 ![ecopro_peak_tokens_2.png](image_files%2Fecopro_peak_tokens_2.png)
-
 > 2023-07-20 ~ 07-28 토큰 언급량 추이 시각화 
 
+![ecopro_peak_chart.png](image_files%2Fecopro_peak_chart.png)
+> 2023-07-20 ~ 07-28 에코프로비엠 차트 (고점 도지음봉이 7월26일)
 ---
 
 ### Contacts
