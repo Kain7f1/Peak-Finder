@@ -189,7 +189,7 @@ print(tokens)
 
 ## 4. 데이터 분석
 
-### 1. 안랩 데이터 분석
+### 4-a. 안랩 데이터 분석
 
 ![Ahnlab_analysis.png](image_files%2FAhnlab_analysis.png)
 
@@ -204,3 +204,17 @@ print(tokens)
     - "새끼", “병신” 빈도 증가
 - 실제 차트  
 ![Ahnlab_chart.png](image_files%2FAhnlab_chart.png)
+
+### 4-b. 에코프로 데이터 분석
+
+#### 4-b-1) 전체 데이터 시각화 
+![ecopro_tokens.png](image_files%2Fecopro_tokens.png)
+
+> 전체 데이터 : 토큰 빈도순으로 시각화
+> 
+#### 4-b-1) 2023-07-20 ~ 07-28 데이터 분석 
+![ecopro_peak_tokens_1.png](image_files%2Fecopro_peak_tokens_1.png)
+![ecopro_peak_tokens_2.png](image_files%2Fecopro_peak_tokens_2.png)
+
+> 2023-07-20 ~ 07-28 토큰 언급량 추이 시각화 
+
