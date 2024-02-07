@@ -205,16 +205,31 @@ print(tokens)
 - 실제 차트  
 ![Ahnlab_chart.png](image_files%2FAhnlab_chart.png)
 
-### 4-b. 에코프로 데이터 분석
 
+### 4-b. 에코프로 데이터 분석
 #### 4-b-1) 전체 데이터 시각화 
 ![ecopro_tokens.png](image_files%2Fecopro_tokens.png)
 
 > 전체 데이터 : 토큰 빈도순으로 시각화
-> 
-#### 4-b-1) 2023-07-20 ~ 07-28 데이터 분석 
+
+#### 4-b-2) 2023-07-20 ~ 07-28 데이터 분석 
 ![ecopro_peak_tokens_1.png](image_files%2Fecopro_peak_tokens_1.png)
 ![ecopro_peak_tokens_2.png](image_files%2Fecopro_peak_tokens_2.png)
 
 > 2023-07-20 ~ 07-28 토큰 언급량 추이 시각화 
 
+---
+
+### Contacts
+
+#### 이슈 관련
+* https://github.com/Kain7f1/Peak-Finder/issues
+
+#### E-mail
+* kain7f1@gmail.com
+
+---
+
+### License
+
+`DC-Crawler`는 `MIT License` 라이선스 하에 공개되어 있습니다. 모델 및 코드를 사용할 경우 라이선스 내용을 준수해주세요. 라이선스 전문은 `LICENSE` 파일에서 확인하실 수 있습니다.
